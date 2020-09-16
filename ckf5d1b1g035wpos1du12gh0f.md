@@ -427,4 +427,4 @@ And when ready you can switch to `Live mode` and activate your account before pr
 #### You can find all the source code in my [Github repo](https://github.com/Soumya-Dey/Razorpay-payment-gateway-react-node).
 When you are there don't forget to [Follow me on Github](https://github.com/Soumya-Dey)
 
-#### Thanks a lot for reading. [Follow me](https://dev.to/soumyadey) if you like my writings.
+#### Thanks a lot for reading. [Follow me Here](https://hashnode.com/@SoumyaDey) or [Follow me on Dev.to](https://dev.to/soumyadey) if you like my writings.
