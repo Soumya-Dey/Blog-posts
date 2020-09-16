@@ -428,3 +428,5 @@ And when ready you can switch to `Live mode` and activate your account before pr
 When you are there don't forget to [Follow me on Github](https://github.com/Soumya-Dey)
 
 #### Thanks a lot for reading. [Follow me Here](https://hashnode.com/@SoumyaDey) or [Follow me on Dev.to](https://dev.to/soumyadey) if you like my writings.
+
+I'll also make a blog post about **Integrating Stripe with React**. Stay tuned for that!
