@@ -1,4 +1,4 @@
-## Understanding JavaScript Scope Rules 🪐
+## Understanding JavaScript Scope Rules with Examples
 
 First , let me say that, this blog post is highly inspired from the great JavaScript book [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md), by [Kyle Simpson](https://github.com/getify). 
 
