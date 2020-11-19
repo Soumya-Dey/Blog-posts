@@ -167,6 +167,9 @@ app.listen(PORT, () => console.log(`⚡Server is running here 👉 https://local
 ```
 If you specify any other directory named as the value of the property `outDir` in the `tsconfig.json` file that name of the directory would have reflected here instead of `build`.
 
+## Source code
+You can get the final source code here 👉 [@Soumya-Dey/node-typescript-server-demo](https://github.com/Soumya-Dey/node-typescript-server-demo)
+
 <hr>
 
 Thanks for reading. Show some love if you like the post.
